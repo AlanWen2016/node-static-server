@@ -1,9 +1,10 @@
 # node-static-server
 
-## 静态资源文件位置 static目录
+## 静态资源文件位置 /static目录
 
 ## 项目启动
 ```
+npm install
 npm run start
 ```
 ### 修改端口和host
